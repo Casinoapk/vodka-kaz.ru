@@ -1,0 +1,73 @@
+vodka-kaz.ru
+|   index.html
+|   project_structure.txt
+|   
++---assets
+|       jquery-3.5.1.min.js
+|       
++---cashe
+|       kaz-vodka.css
+|       license.html
+|       license.js
+|       nicepage-site.css
+|       nicepage.css
+|       nicepage.js
+|       otvet.html
+|       otvet.js
+|       partner-program.html
+|       partner-program.js
+|       police.html
+|       police.js
+|       vodka.html
+|       vodka.js
+|       
++---en
+|       index.html
+|       
++---images
+    |   cropped-vodkabet-logo-180x180.webp
+    |   cropped-vodkabet-logo-192x192.webp
+    |   cropped-vodkabet-logo-32x32.webp
+    |   instagram.png
+    |   telegram-icon.png
+    |   twitter.png
+    |   vodka-bet.svg
+    |   vodka-bet64.webp
+    |   vodka-bet82.webp
+    |   vodka-bet96.webp
+    |   vodka-logg.webp
+    |   vodka.png
+    |   
+    +---c461c07a441a5d220e8feb1a
+    |   +---2829e0920a9c51c18a247f37
+    |   |       ui.jpg
+    |   |       
+    |   +---43cf7b17e49e5291969a68b6
+    |   |       hjjh.jpg
+    |   |       
+    |   +---5184bd994f065e6b9085d765
+    |   |       bvbvbv.jpg
+    |   |       
+    |   \---b647818fa6715b5f81bd0768
+    |           -min3.jpg
+    |           
+    \---d2cc3eaa
+        +---2713395
+        |   \---images
+        |           34554.jpg
+        |           45454666.jpg
+        |           45t2.jpg
+        |           ds.gif
+        |           ds.jpg
+        |           rtt.jpg
+        |           ytty.jpg
+        |           
+        \---3159880
+            \---images
+                    321.jpg
+                    32144.jpg
+                    44556.jpg
+                    4r3536.jpg
+                    er4334.jpg
+                    rttyyy.jpg
+        
