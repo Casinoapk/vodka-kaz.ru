@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+
+Sitemap: https://www.vodka-kaz.ru/sitemap.xml
