@@ -3,7 +3,7 @@
 
   <!-- Main Pages -->
   <url>
-    <loc>https://vodka-kaz.ru/index.html</loc>
+    <loc>https://vodka-kaz.ru/</loc>
     <lastmod>2025-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -43,7 +43,7 @@
 
   <!-- English Version -->
   <url>
-    <loc>https://vodka-kaz.ru/en/index.html</loc>
+    <loc>https://vodka-kaz.ru/en/</loc>
     <lastmod>2025-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -51,7 +51,7 @@
 
   <!-- Russian Version -->
   <url>
-    <loc>https://vodka-kaz.ru/index.html</loc>
+    <loc>https://vodka-kaz.ru/</loc>
     <lastmod>2025-03-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
